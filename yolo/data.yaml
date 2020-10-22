@@ -1,0 +1,5 @@
+train: C:/yolo/train/images
+val: C:/yolo/valid/images
+
+nc: 4
+names: ['bolt', 'bracket', 'hole', 'welding']
